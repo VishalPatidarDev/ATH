@@ -1,0 +1,2164 @@
+[
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Apollo Hospitals Enterprise Limited",
+    "symbol": "APOLLOHOSP",
+    "scan_date": "2026-05-22",
+    "price": 8308.5,
+    "volume": 1424999.0,
+    "rvol": 3.29,
+    "change": 2.89,
+    "score": 6.18,
+    "signal": "BREAKOUT",
+    "bo_text": "9 Sessions Ago (May 08)",
+    "bo_days": 9,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 3,
+      "latest_breakout_date": "2026-05-08",
+      "latest_retrace_days": 4.0,
+      "latest_retrace_depth_pct": 1.142398419167593,
+      "latest_resume_date": "2026-05-14",
+      "average_retrace_days": 10.333333333333334,
+      "average_retrace_depth_pct": 2.517564303149372,
+      "expected_resume_days": 13.333333333333334,
+      "expected_resume_date": "2026-05-21",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 8078.5,
+          "high": 8140.0,
+          "volume": 492013.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 1424999.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 8078.5,
+        "high": 8140.0,
+        "volume": 492013.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 1424999.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 35,
+    "bt_winning_trades": 11,
+    "bt_losing_trades": 24,
+    "bt_win_rate": 31.4,
+    "bt_net_profit": 12383.83,
+    "bt_growth_pct": 12.4,
+    "bt_max_drawdown": 11.64
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "MTAR Technologies Ltd",
+    "symbol": "MTARTECH",
+    "scan_date": "2026-05-22",
+    "price": 7947.5,
+    "volume": 4822184.0,
+    "rvol": 2.85,
+    "change": 7.11,
+    "score": 7.85,
+    "signal": "BREAKOUT",
+    "bo_text": "5 Sessions Ago (May 14)",
+    "bo_days": 5,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 5,
+      "latest_breakout_date": "2026-04-30",
+      "latest_retrace_days": 5.0,
+      "latest_retrace_depth_pct": 5.104460093097918,
+      "latest_resume_date": "2026-05-07",
+      "average_retrace_days": 3.6,
+      "average_retrace_depth_pct": 3.211232208046657,
+      "expected_resume_days": 6.6,
+      "expected_resume_date": "2026-05-07",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 7457.0,
+          "high": 7520.0,
+          "volume": 3004369.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 4822184.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 7457.0,
+        "high": 7520.0,
+        "volume": 3004369.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 4822184.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 9,
+    "bt_winning_trades": 5,
+    "bt_losing_trades": 4,
+    "bt_win_rate": 55.6,
+    "bt_net_profit": 19646.56,
+    "bt_growth_pct": 19.6,
+    "bt_max_drawdown": 1.74
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Centum Electronics Limited",
+    "symbol": "CENTUM",
+    "scan_date": "2026-05-22",
+    "price": 3233.2,
+    "volume": 346424.0,
+    "rvol": 4.52,
+    "change": 7.77,
+    "score": 9.52,
+    "signal": "BREAKOUT",
+    "bo_text": "39 Sessions Ago (Mar 20)",
+    "bo_days": 39,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 2,
+      "latest_breakout_date": "2026-04-17",
+      "latest_retrace_days": 14.0,
+      "latest_retrace_depth_pct": 9.30368242534966,
+      "latest_resume_date": "2026-05-08",
+      "average_retrace_days": 12.5,
+      "average_retrace_depth_pct": 7.455759121827051,
+      "expected_resume_days": 15.5,
+      "expected_resume_date": "2026-05-03",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 2998.199951171875,
+          "high": 3036.39990234375,
+          "volume": 42981.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 346424.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 2998.199951171875,
+        "high": 3036.39990234375,
+        "volume": 42981.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 346424.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 35,
+    "bt_winning_trades": 11,
+    "bt_losing_trades": 24,
+    "bt_win_rate": 31.4,
+    "bt_net_profit": 17168.3,
+    "bt_growth_pct": 17.2,
+    "bt_max_drawdown": 10.72
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Grasim Industries Limited",
+    "symbol": "GRASIM",
+    "scan_date": "2026-05-22",
+    "price": 3154.5,
+    "volume": 4417458.0,
+    "rvol": 4.03,
+    "change": 6.17,
+    "score": 9.03,
+    "signal": "BREAKOUT",
+    "bo_text": "37 Sessions Ago (Mar 25)",
+    "bo_days": 37,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 2971.10009765625,
+          "high": 2988.0,
+          "volume": 1306216.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 4417458.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 2971.10009765625,
+        "high": 2988.0,
+        "volume": 1306216.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 4417458.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 26,
+    "bt_winning_trades": 12,
+    "bt_losing_trades": 14,
+    "bt_win_rate": 46.2,
+    "bt_net_profit": 20546.81,
+    "bt_growth_pct": 20.5,
+    "bt_max_drawdown": 29.3
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Sansera Engineering Ltd",
+    "symbol": "SANSERA",
+    "scan_date": "2026-05-22",
+    "price": 2854.5,
+    "volume": 3037255.0,
+    "rvol": 9.94,
+    "change": 14.82,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "21 Sessions Ago (Apr 22)",
+    "bo_days": 21,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 7,
+      "latest_breakout_date": "2026-04-22",
+      "latest_retrace_days": 11.0,
+      "latest_retrace_depth_pct": 2.2457774311690226,
+      "latest_resume_date": "2026-05-07",
+      "average_retrace_days": 12.0,
+      "average_retrace_depth_pct": 5.373982498658976,
+      "expected_resume_days": 15.0,
+      "expected_resume_date": "2026-05-07",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 2486.199951171875,
+          "high": 2499.0,
+          "volume": 211459.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 3037255.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 2486.199951171875,
+        "high": 2499.0,
+        "volume": 211459.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 3037255.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 5,
+    "bt_winning_trades": 3,
+    "bt_losing_trades": 2,
+    "bt_win_rate": 60.0,
+    "bt_net_profit": 11160.7,
+    "bt_growth_pct": 11.2,
+    "bt_max_drawdown": 2.18
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Dynacons Systems & Solutions Limited",
+    "symbol": "DSSL",
+    "scan_date": "2026-05-22",
+    "price": 1640.6,
+    "volume": 795464.0,
+    "rvol": 2.97,
+    "change": 10.15,
+    "score": 7.97,
+    "signal": "BREAKOUT",
+    "bo_text": "12 Sessions Ago (May 05)",
+    "bo_days": 12,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 1489.4000244140625,
+          "high": 1589.5999755859375,
+          "volume": 206253.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 795464.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 1489.4000244140625,
+        "high": 1589.5999755859375,
+        "volume": 206253.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 795464.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 32,
+    "bt_winning_trades": 13,
+    "bt_losing_trades": 19,
+    "bt_win_rate": 40.6,
+    "bt_net_profit": 29309.27,
+    "bt_growth_pct": 29.3,
+    "bt_max_drawdown": 6.14
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Goodluck India Limited",
+    "symbol": "GOODLUCK",
+    "scan_date": "2026-05-22",
+    "price": 1437.4,
+    "volume": 582275.0,
+    "rvol": 3.01,
+    "change": 6.58,
+    "score": 8.01,
+    "signal": "BREAKOUT",
+    "bo_text": "12 Sessions Ago (May 05)",
+    "bo_days": 12,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 1348.5999755859375,
+          "high": 1355.0,
+          "volume": 78486.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 582275.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 1348.5999755859375,
+        "high": 1355.0,
+        "volume": 78486.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 582275.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 13,
+    "bt_winning_trades": 7,
+    "bt_losing_trades": 6,
+    "bt_win_rate": 53.8,
+    "bt_net_profit": 31074.58,
+    "bt_growth_pct": 31.1,
+    "bt_max_drawdown": 4.57
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Precot Meridian Limited",
+    "symbol": "PRECOT",
+    "scan_date": "2026-05-22",
+    "price": 769.4,
+    "volume": 30798.0,
+    "rvol": 3.12,
+    "change": 7.46,
+    "score": 8.12,
+    "signal": "BREAKOUT",
+    "bo_text": "29 Sessions Ago (Apr 08)",
+    "bo_days": 29,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 716.0,
+          "high": 716.0,
+          "volume": 19755.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 30798.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 716.0,
+        "high": 716.0,
+        "volume": 19755.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 30798.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 27,
+    "bt_winning_trades": 10,
+    "bt_losing_trades": 17,
+    "bt_win_rate": 37.0,
+    "bt_net_profit": 20403.13,
+    "bt_growth_pct": 20.4,
+    "bt_max_drawdown": 7.98
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Triveni Turbine Limited",
+    "symbol": "TRITURBINE",
+    "scan_date": "2026-05-22",
+    "price": 705.6,
+    "volume": 15938144.0,
+    "rvol": 4.96,
+    "change": 7.56,
+    "score": 9.96,
+    "signal": "BREAKOUT",
+    "bo_text": "23 Sessions Ago (Apr 20)",
+    "bo_days": 23,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 656.5499877929688,
+          "high": 664.0,
+          "volume": 8531572.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 15938144.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 656.5499877929688,
+        "high": 664.0,
+        "volume": 8531572.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 15938144.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 20,
+    "bt_winning_trades": 6,
+    "bt_losing_trades": 14,
+    "bt_win_rate": 30.0,
+    "bt_net_profit": 8715.46,
+    "bt_growth_pct": 8.7,
+    "bt_max_drawdown": 11.64
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Sandhar Technologies Limited",
+    "symbol": "SANDHAR",
+    "scan_date": "2026-05-22",
+    "price": 586.2,
+    "volume": 6383532.0,
+    "rvol": 14.6,
+    "change": 10.19,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "10 Sessions Ago (May 07)",
+    "bo_days": 10,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 530.3499755859375,
+          "high": 539.0,
+          "volume": 113169.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 6383532.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 530.3499755859375,
+        "high": 539.0,
+        "volume": 113169.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 6383532.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 6,
+    "bt_winning_trades": 3,
+    "bt_losing_trades": 3,
+    "bt_win_rate": 50.0,
+    "bt_net_profit": 9776.27,
+    "bt_growth_pct": 9.8,
+    "bt_max_drawdown": 2.92
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Apollo Pipes Ltd",
+    "symbol": "APOLLOPIPE",
+    "scan_date": "2026-05-22",
+    "price": 547.75,
+    "volume": 1247403.0,
+    "rvol": 2.17,
+    "change": 7.91,
+    "score": 7.17,
+    "signal": "BREAKOUT",
+    "bo_text": "4 Sessions Ago (May 15)",
+    "bo_days": 4,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 507.6000061035156,
+          "high": 519.5499877929688,
+          "volume": 591564.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 1247403.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 507.6000061035156,
+        "high": 519.5499877929688,
+        "volume": 591564.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 1247403.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 5,
+    "bt_winning_trades": 4,
+    "bt_losing_trades": 1,
+    "bt_win_rate": 80.0,
+    "bt_net_profit": 24066.67,
+    "bt_growth_pct": 24.1,
+    "bt_max_drawdown": 1.52
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Century Enka Limited",
+    "symbol": "CENTENKA",
+    "scan_date": "2026-05-22",
+    "price": 539.65,
+    "volume": 987991.0,
+    "rvol": 14.4,
+    "change": 19.66,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "11 Sessions Ago (May 06)",
+    "bo_days": 11,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 450.1000061035156,
+          "high": 454.0,
+          "volume": 37751.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 987991.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 450.1000061035156,
+        "high": 454.0,
+        "volume": 37751.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 987991.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 33,
+    "bt_winning_trades": 11,
+    "bt_losing_trades": 22,
+    "bt_win_rate": 33.3,
+    "bt_net_profit": 13947.85,
+    "bt_growth_pct": 13.9,
+    "bt_max_drawdown": 9.17
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "United Foodbrands Ltd",
+    "symbol": "UFBL",
+    "scan_date": "2026-05-22",
+    "price": 480.95,
+    "volume": 7103895.0,
+    "rvol": 9.91,
+    "change": 20.0,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "TODAY",
+    "bo_days": 0,
+    "category": "Unknown",
+    "recommendation": "Insufficient Data (<200 days)",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": []
+    },
+    "recent_days": [],
+    "backtest_available": false,
+    "bt_total_trades": 0,
+    "bt_winning_trades": 0,
+    "bt_losing_trades": 0,
+    "bt_win_rate": 0,
+    "bt_net_profit": 0,
+    "bt_growth_pct": 0,
+    "bt_max_drawdown": 0
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "JNK India Ltd",
+    "symbol": "JNKINDIA",
+    "scan_date": "2026-05-22",
+    "price": 409.9,
+    "volume": 1457274.0,
+    "rvol": 4.5,
+    "change": 8.73,
+    "score": 9.5,
+    "signal": "BREAKOUT",
+    "bo_text": "23 Sessions Ago (Apr 20)",
+    "bo_days": 23,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": []
+    },
+    "recent_days": [],
+    "backtest_available": false,
+    "bt_total_trades": 0,
+    "bt_winning_trades": 0,
+    "bt_losing_trades": 0,
+    "bt_win_rate": 0,
+    "bt_net_profit": 0,
+    "bt_growth_pct": 0,
+    "bt_max_drawdown": 0
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Angel One Ltd",
+    "symbol": "ANGELONE",
+    "scan_date": "2026-05-22",
+    "price": 339.65,
+    "volume": 25207001.0,
+    "rvol": 3.35,
+    "change": 4.51,
+    "score": 7.86,
+    "signal": "BREAKOUT",
+    "bo_text": "24 Sessions Ago (Apr 17)",
+    "bo_days": 24,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 325.0,
+          "high": 328.54998779296875,
+          "volume": 6591462.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 25207001.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 325.0,
+        "high": 328.54998779296875,
+        "volume": 6591462.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 25207001.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 7,
+    "bt_winning_trades": 2,
+    "bt_losing_trades": 5,
+    "bt_win_rate": 28.6,
+    "bt_net_profit": -419.89,
+    "bt_growth_pct": -0.4,
+    "bt_max_drawdown": 7.32
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Indo Borax & Chemicals Ltd",
+    "symbol": "INDOBORAX",
+    "scan_date": "2026-05-22",
+    "price": 324.35,
+    "volume": 2227469.0,
+    "rvol": 10.45,
+    "change": 17.97,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "15 Sessions Ago (Apr 29)",
+    "bo_days": 15,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 274.95001220703125,
+          "high": 277.95001220703125,
+          "volume": 25748.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 2227469.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 274.95001220703125,
+        "high": 277.95001220703125,
+        "volume": 25748.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 2227469.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 4,
+    "bt_winning_trades": 0,
+    "bt_losing_trades": 4,
+    "bt_win_rate": 0.0,
+    "bt_net_profit": -8240.68,
+    "bt_growth_pct": -8.2,
+    "bt_max_drawdown": 8.24
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Sportking India Ltd",
+    "symbol": "SPORTKING",
+    "scan_date": "2026-05-22",
+    "price": 159.5,
+    "volume": 1201879.0,
+    "rvol": 2.99,
+    "change": 2.05,
+    "score": 5.04,
+    "signal": "BREAKOUT",
+    "bo_text": "30 Sessions Ago (Apr 08)",
+    "bo_days": 30,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": []
+    },
+    "recent_days": [],
+    "backtest_available": true,
+    "bt_total_trades": 2,
+    "bt_winning_trades": 1,
+    "bt_losing_trades": 1,
+    "bt_win_rate": 50.0,
+    "bt_net_profit": 4590.65,
+    "bt_growth_pct": 4.6,
+    "bt_max_drawdown": 1.99
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Samvardhana Motherson International Ltd",
+    "symbol": "MOTHERSON",
+    "scan_date": "2026-05-22",
+    "price": 137.0,
+    "volume": 65657079.0,
+    "rvol": 3.19,
+    "change": 4.28,
+    "score": 7.47,
+    "signal": "BREAKOUT",
+    "bo_text": "21 Sessions Ago (Apr 22)",
+    "bo_days": 21,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 132.1699981689453,
+          "high": 136.0,
+          "volume": 56355040.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 65657079.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 132.1699981689453,
+        "high": 136.0,
+        "volume": 56355040.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 65657079.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 37,
+    "bt_winning_trades": 19,
+    "bt_losing_trades": 18,
+    "bt_win_rate": 51.4,
+    "bt_net_profit": 205608.81,
+    "bt_growth_pct": 205.6,
+    "bt_max_drawdown": 6.1
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Inspirisys Solutions Ltd",
+    "symbol": "INSPIRISYS",
+    "scan_date": "2026-05-22",
+    "price": 132.05,
+    "volume": 108275.0,
+    "rvol": 3.38,
+    "change": 4.99,
+    "score": 8.37,
+    "signal": "BREAKOUT",
+    "bo_text": "2 Sessions Ago (May 19)",
+    "bo_days": 2,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 125.7699966430664,
+          "high": 125.7699966430664,
+          "volume": 89570.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 108275.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 125.7699966430664,
+        "high": 125.7699966430664,
+        "volume": 89570.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 108275.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 20,
+    "bt_winning_trades": 8,
+    "bt_losing_trades": 12,
+    "bt_win_rate": 40.0,
+    "bt_net_profit": 20033.01,
+    "bt_growth_pct": 20.0,
+    "bt_max_drawdown": 5.42
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Jay Bharat Maruti Limited",
+    "symbol": "JAYBARMARU",
+    "scan_date": "2026-05-22",
+    "price": 117.35,
+    "volume": 28402467.0,
+    "rvol": 16.98,
+    "change": 13.63,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "1 Sessions Ago (May 20)",
+    "bo_days": 1,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 103.2699966430664,
+          "high": 103.2699966430664,
+          "volume": 2119565.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 28402467.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 103.2699966430664,
+        "high": 103.2699966430664,
+        "volume": 2119565.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 28402467.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 29,
+    "bt_winning_trades": 10,
+    "bt_losing_trades": 19,
+    "bt_win_rate": 34.5,
+    "bt_net_profit": 5525.92,
+    "bt_growth_pct": 5.5,
+    "bt_max_drawdown": 23.52
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Bodal Chemicals Limited",
+    "symbol": "BODALCHEM",
+    "scan_date": "2026-05-22",
+    "price": 78.99,
+    "volume": 4716914.0,
+    "rvol": 8.73,
+    "change": 15.01,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "39 Sessions Ago (Mar 20)",
+    "bo_days": 39,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 68.68000030517578,
+          "high": 70.0,
+          "volume": 166612.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 4716914.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 68.68000030517578,
+        "high": 70.0,
+        "volume": 166612.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 4716914.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 19,
+    "bt_winning_trades": 8,
+    "bt_losing_trades": 11,
+    "bt_win_rate": 42.1,
+    "bt_net_profit": 22200.43,
+    "bt_growth_pct": 22.2,
+    "bt_max_drawdown": 5.64
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "SBC Exports Ltd",
+    "symbol": "SBC",
+    "scan_date": "2026-05-22",
+    "price": 37.88,
+    "volume": 29976136.0,
+    "rvol": 2.37,
+    "change": 6.82,
+    "score": 7.37,
+    "signal": "BREAKOUT",
+    "bo_text": "1 Sessions Ago (May 20)",
+    "bo_days": 1,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 1,
+      "latest_breakout_date": "2026-05-08",
+      "latest_retrace_days": 8.0,
+      "latest_retrace_depth_pct": 2.3635872847136614,
+      "latest_resume_date": "2026-05-20",
+      "average_retrace_days": 8.0,
+      "average_retrace_depth_pct": 2.3635872847136614,
+      "expected_resume_days": 11.0,
+      "expected_resume_date": "2026-05-19",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 35.459999084472656,
+          "high": 35.58000183105469,
+          "volume": 17532038.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 29976136.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 35.459999084472656,
+        "high": 35.58000183105469,
+        "volume": 17532038.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 29976136.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 8,
+    "bt_winning_trades": 5,
+    "bt_losing_trades": 3,
+    "bt_win_rate": 62.5,
+    "bt_net_profit": 21045.15,
+    "bt_growth_pct": 21.0,
+    "bt_max_drawdown": 1.72
+  },
+  {
+    "strategy": "Classic ATH (250-Day)",
+    "name": "Sanco Industries Limited",
+    "symbol": "SANCO",
+    "scan_date": "2026-05-22",
+    "price": 4.05,
+    "volume": 47380.0,
+    "rvol": 2.75,
+    "change": 4.92,
+    "score": 7.67,
+    "signal": "BREAKOUT",
+    "bo_text": "20 Sessions Ago (Apr 22)",
+    "bo_days": 20,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 3.859999895095825,
+          "high": 3.890000104904175,
+          "volume": 7834.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 47380.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 3.859999895095825,
+        "high": 3.890000104904175,
+        "volume": 7834.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 47380.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 5,
+    "bt_winning_trades": 1,
+    "bt_losing_trades": 4,
+    "bt_win_rate": 20.0,
+    "bt_net_profit": -2340.25,
+    "bt_growth_pct": -2.3,
+    "bt_max_drawdown": 3.93
+  },
+  {
+    "strategy": "Pro Breakout (1000-Day)",
+    "name": "Apollo Hospitals Enterprise Limited",
+    "symbol": "APOLLOHOSP",
+    "scan_date": "2026-05-22",
+    "price": 8308.5,
+    "volume": 1424999.0,
+    "rvol": 3.29,
+    "change": 2.89,
+    "score": 6.18,
+    "signal": "BREAKOUT",
+    "bo_text": "9 Sessions Ago (May 08)",
+    "bo_days": 9,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 3,
+      "latest_breakout_date": "2026-05-08",
+      "latest_retrace_days": 4.0,
+      "latest_retrace_depth_pct": 1.142398419167593,
+      "latest_resume_date": "2026-05-14",
+      "average_retrace_days": 10.333333333333334,
+      "average_retrace_depth_pct": 2.517564303149372,
+      "expected_resume_days": 13.333333333333334,
+      "expected_resume_date": "2026-05-21",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 8078.5,
+          "high": 8140.0,
+          "volume": 492013.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 1424999.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 8078.5,
+        "high": 8140.0,
+        "volume": 492013.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 1424999.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 16,
+    "bt_winning_trades": 6,
+    "bt_losing_trades": 10,
+    "bt_win_rate": 37.5,
+    "bt_net_profit": 12687.0,
+    "bt_growth_pct": 12.7,
+    "bt_max_drawdown": 10.52
+  },
+  {
+    "strategy": "Pro Breakout (1000-Day)",
+    "name": "MTAR Technologies Ltd",
+    "symbol": "MTARTECH",
+    "scan_date": "2026-05-22",
+    "price": 7947.5,
+    "volume": 4822184.0,
+    "rvol": 2.85,
+    "change": 7.11,
+    "score": 7.85,
+    "signal": "BREAKOUT",
+    "bo_text": "5 Sessions Ago (May 14)",
+    "bo_days": 5,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 5,
+      "latest_breakout_date": "2026-04-30",
+      "latest_retrace_days": 5.0,
+      "latest_retrace_depth_pct": 5.104460093097918,
+      "latest_resume_date": "2026-05-07",
+      "average_retrace_days": 3.6,
+      "average_retrace_depth_pct": 3.211232208046657,
+      "expected_resume_days": 6.6,
+      "expected_resume_date": "2026-05-07",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 7457.0,
+          "high": 7520.0,
+          "volume": 3004369.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 4822184.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 7457.0,
+        "high": 7520.0,
+        "volume": 3004369.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 4822184.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 2,
+    "bt_winning_trades": 2,
+    "bt_losing_trades": 0,
+    "bt_win_rate": 100.0,
+    "bt_net_profit": 9983.93,
+    "bt_growth_pct": 10.0,
+    "bt_max_drawdown": 0.0
+  },
+  {
+    "strategy": "Pro Breakout (1000-Day)",
+    "name": "Centum Electronics Limited",
+    "symbol": "CENTUM",
+    "scan_date": "2026-05-22",
+    "price": 3233.2,
+    "volume": 346424.0,
+    "rvol": 4.52,
+    "change": 7.77,
+    "score": 9.52,
+    "signal": "BREAKOUT",
+    "bo_text": "39 Sessions Ago (Mar 20)",
+    "bo_days": 39,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 2,
+      "latest_breakout_date": "2026-04-17",
+      "latest_retrace_days": 14.0,
+      "latest_retrace_depth_pct": 9.30368242534966,
+      "latest_resume_date": "2026-05-08",
+      "average_retrace_days": 12.5,
+      "average_retrace_depth_pct": 7.455759121827051,
+      "expected_resume_days": 15.5,
+      "expected_resume_date": "2026-05-03",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 2998.199951171875,
+          "high": 3036.39990234375,
+          "volume": 42981.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 346424.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 2998.199951171875,
+        "high": 3036.39990234375,
+        "volume": 42981.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 346424.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 15,
+    "bt_winning_trades": 7,
+    "bt_losing_trades": 8,
+    "bt_win_rate": 46.7,
+    "bt_net_profit": 21779.91,
+    "bt_growth_pct": 21.8,
+    "bt_max_drawdown": 8.07
+  },
+  {
+    "strategy": "Pro Breakout (1000-Day)",
+    "name": "Grasim Industries Limited",
+    "symbol": "GRASIM",
+    "scan_date": "2026-05-22",
+    "price": 3154.5,
+    "volume": 4417458.0,
+    "rvol": 4.03,
+    "change": 6.17,
+    "score": 9.03,
+    "signal": "BREAKOUT",
+    "bo_text": "37 Sessions Ago (Mar 25)",
+    "bo_days": 37,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 2971.10009765625,
+          "high": 2988.0,
+          "volume": 1306216.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 4417458.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 2971.10009765625,
+        "high": 2988.0,
+        "volume": 1306216.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 4417458.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 6,
+    "bt_winning_trades": 1,
+    "bt_losing_trades": 5,
+    "bt_win_rate": 16.7,
+    "bt_net_profit": -4043.65,
+    "bt_growth_pct": -4.0,
+    "bt_max_drawdown": 7.44
+  },
+  {
+    "strategy": "Pro Breakout (1000-Day)",
+    "name": "Sansera Engineering Ltd",
+    "symbol": "SANSERA",
+    "scan_date": "2026-05-22",
+    "price": 2854.5,
+    "volume": 3037255.0,
+    "rvol": 9.94,
+    "change": 14.82,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "21 Sessions Ago (Apr 22)",
+    "bo_days": 21,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 7,
+      "latest_breakout_date": "2026-04-22",
+      "latest_retrace_days": 11.0,
+      "latest_retrace_depth_pct": 2.2457774311690226,
+      "latest_resume_date": "2026-05-07",
+      "average_retrace_days": 12.0,
+      "average_retrace_depth_pct": 5.373982498658976,
+      "expected_resume_days": 15.0,
+      "expected_resume_date": "2026-05-07",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 2486.199951171875,
+          "high": 2499.0,
+          "volume": 211459.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 3037255.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 2486.199951171875,
+        "high": 2499.0,
+        "volume": 211459.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 3037255.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 2,
+    "bt_winning_trades": 0,
+    "bt_losing_trades": 2,
+    "bt_win_rate": 0.0,
+    "bt_net_profit": -3788.23,
+    "bt_growth_pct": -3.8,
+    "bt_max_drawdown": 3.79
+  },
+  {
+    "strategy": "Pro Breakout (1000-Day)",
+    "name": "Precot Meridian Limited",
+    "symbol": "PRECOT",
+    "scan_date": "2026-05-22",
+    "price": 769.4,
+    "volume": 30798.0,
+    "rvol": 3.12,
+    "change": 7.46,
+    "score": 8.12,
+    "signal": "BREAKOUT",
+    "bo_text": "29 Sessions Ago (Apr 08)",
+    "bo_days": 29,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 716.0,
+          "high": 716.0,
+          "volume": 19755.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 30798.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 716.0,
+        "high": 716.0,
+        "volume": 19755.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 30798.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 10,
+    "bt_winning_trades": 3,
+    "bt_losing_trades": 7,
+    "bt_win_rate": 30.0,
+    "bt_net_profit": 3367.22,
+    "bt_growth_pct": 3.4,
+    "bt_max_drawdown": 9.63
+  },
+  {
+    "strategy": "Pro Breakout (1000-Day)",
+    "name": "Indo Borax & Chemicals Ltd",
+    "symbol": "INDOBORAX",
+    "scan_date": "2026-05-22",
+    "price": 324.35,
+    "volume": 2227469.0,
+    "rvol": 10.45,
+    "change": 17.97,
+    "score": 10.0,
+    "signal": "BREAKOUT",
+    "bo_text": "15 Sessions Ago (Apr 29)",
+    "bo_days": 15,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 274.95001220703125,
+          "high": 277.95001220703125,
+          "volume": 25748.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 2227469.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 274.95001220703125,
+        "high": 277.95001220703125,
+        "volume": 25748.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 2227469.0
+      }
+    ],
+    "backtest_available": false,
+    "bt_total_trades": 0,
+    "bt_winning_trades": 0,
+    "bt_losing_trades": 0,
+    "bt_win_rate": 0,
+    "bt_net_profit": 0,
+    "bt_growth_pct": 0,
+    "bt_max_drawdown": 0
+  },
+  {
+    "strategy": "Pro Breakout (1000-Day)",
+    "name": "SBC Exports Ltd",
+    "symbol": "SBC",
+    "scan_date": "2026-05-22",
+    "price": 37.88,
+    "volume": 29976136.0,
+    "rvol": 2.37,
+    "change": 6.82,
+    "score": 7.37,
+    "signal": "BREAKOUT",
+    "bo_text": "1 Sessions Ago (May 20)",
+    "bo_days": 1,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 1,
+      "latest_breakout_date": "2026-05-08",
+      "latest_retrace_days": 8.0,
+      "latest_retrace_depth_pct": 2.3635872847136614,
+      "latest_resume_date": "2026-05-20",
+      "average_retrace_days": 8.0,
+      "average_retrace_depth_pct": 2.3635872847136614,
+      "expected_resume_days": 11.0,
+      "expected_resume_date": "2026-05-19",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 35.459999084472656,
+          "high": 35.58000183105469,
+          "volume": 17532038.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 29976136.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 35.459999084472656,
+        "high": 35.58000183105469,
+        "volume": 17532038.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 29976136.0
+      }
+    ],
+    "backtest_available": false,
+    "bt_total_trades": 0,
+    "bt_winning_trades": 0,
+    "bt_losing_trades": 0,
+    "bt_win_rate": 0,
+    "bt_net_profit": 0,
+    "bt_growth_pct": 0,
+    "bt_max_drawdown": 0
+  },
+  {
+    "strategy": "Minervini Trend",
+    "name": "Grasim Industries Limited",
+    "symbol": "GRASIM",
+    "scan_date": "2026-05-22",
+    "price": 3154.5,
+    "volume": 4417458.0,
+    "rvol": 4.03,
+    "change": 6.17,
+    "score": 9.03,
+    "signal": "BREAKOUT",
+    "bo_text": "37 Sessions Ago (Mar 25)",
+    "bo_days": 37,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 2971.10009765625,
+          "high": 2988.0,
+          "volume": 1306216.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 4417458.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 2971.10009765625,
+        "high": 2988.0,
+        "volume": 1306216.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 4417458.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 42,
+    "bt_winning_trades": 20,
+    "bt_losing_trades": 22,
+    "bt_win_rate": 47.6,
+    "bt_net_profit": 61359.98,
+    "bt_growth_pct": 61.4,
+    "bt_max_drawdown": 8.92
+  },
+  {
+    "strategy": "Minervini Trend",
+    "name": "Tata Communications Limited",
+    "symbol": "TATACOMM",
+    "scan_date": "2026-05-22",
+    "price": 1896.3,
+    "volume": 1719072.0,
+    "rvol": 2.66,
+    "change": 6.8,
+    "score": 7.66,
+    "signal": "BREAKOUT",
+    "bo_text": "1 Sessions Ago (May 20)",
+    "bo_days": 1,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 1775.5999755859375,
+          "high": 1805.0,
+          "volume": 3191014.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 1719072.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 1775.5999755859375,
+        "high": 1805.0,
+        "volume": 3191014.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 1719072.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 56,
+    "bt_winning_trades": 21,
+    "bt_losing_trades": 35,
+    "bt_win_rate": 37.5,
+    "bt_net_profit": 57543.42,
+    "bt_growth_pct": 57.5,
+    "bt_max_drawdown": 12.52
+  },
+  {
+    "strategy": "Minervini Trend",
+    "name": "Dredging Corporation Of India Limited",
+    "symbol": "DREDGECORP",
+    "scan_date": "2026-05-22",
+    "price": 1105.25,
+    "volume": 1542986.0,
+    "rvol": 2.12,
+    "change": 2.15,
+    "score": 4.27,
+    "signal": "BREAKOUT",
+    "bo_text": "1 Sessions Ago (May 20)",
+    "bo_days": 1,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 1088.0,
+          "high": 1155.0,
+          "volume": 8954182.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 1542986.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 1088.0,
+        "high": 1155.0,
+        "volume": 8954182.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 1542986.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 53,
+    "bt_winning_trades": 14,
+    "bt_losing_trades": 39,
+    "bt_win_rate": 26.4,
+    "bt_net_profit": 20261.29,
+    "bt_growth_pct": 20.3,
+    "bt_max_drawdown": 15.28
+  },
+  {
+    "strategy": "Minervini Trend",
+    "name": "Samvardhana Motherson International Ltd",
+    "symbol": "MOTHERSON",
+    "scan_date": "2026-05-22",
+    "price": 137.0,
+    "volume": 65657079.0,
+    "rvol": 3.19,
+    "change": 4.28,
+    "score": 7.47,
+    "signal": "BREAKOUT",
+    "bo_text": "21 Sessions Ago (Apr 22)",
+    "bo_days": 21,
+    "category": "Slow / Value",
+    "recommendation": "Lacks Momentum. Wait for trend to shift.",
+    "atr": 0.0,
+    "breakout_analysis": {
+      "breakout_events_count": 0,
+      "latest_breakout_date": "",
+      "latest_retrace_days": 0.0,
+      "latest_retrace_depth_pct": 0.0,
+      "latest_resume_date": "",
+      "average_retrace_days": 0.0,
+      "average_retrace_depth_pct": 0.0,
+      "expected_resume_days": 0.0,
+      "expected_resume_date": "",
+      "recent_days": [
+        {
+          "date": "2026-05-20",
+          "close": 132.1699981689453,
+          "high": 136.0,
+          "volume": 56355040.0
+        },
+        {
+          "date": "2026-05-21",
+          "close": 0.0,
+          "high": 0.0,
+          "volume": 65657079.0
+        }
+      ]
+    },
+    "recent_days": [
+      {
+        "date": "2026-05-20",
+        "close": 132.1699981689453,
+        "high": 136.0,
+        "volume": 56355040.0
+      },
+      {
+        "date": "2026-05-21",
+        "close": 0.0,
+        "high": 0.0,
+        "volume": 65657079.0
+      }
+    ],
+    "backtest_available": true,
+    "bt_total_trades": 59,
+    "bt_winning_trades": 34,
+    "bt_losing_trades": 25,
+    "bt_win_rate": 57.6,
+    "bt_net_profit": 316491.15,
+    "bt_growth_pct": 316.5,
+    "bt_max_drawdown": 2.53
+  }
+]

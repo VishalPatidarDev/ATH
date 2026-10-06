@@ -1,0 +1,1524 @@
+2026-05-12 04:39:41,105 - __main__ - INFO - Scanner started
+2026-05-12 04:39:45,332 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-12 04:39:45,412 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-12 04:39:45,586 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-12 04:39:45,618 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-12 04:39:45,618 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-12 04:39:45,714 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (1d 1927-06-06 -> 2026-05-12)
+2026-05-12 04:39:45,714 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-12 04:39:46,717 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYHEALTHCARE.NS"}}}
+2026-05-12 04:39:47,353 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:47,818 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:48,196 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:48,645 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYHEALTHCARE.NS"}}}
+2026-05-12 04:39:49,120 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:49,120 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-12 04:39:49,120 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-12 04:39:49,120 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-12 04:39:49,994 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:50,472 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:50,855 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:51,306 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:51,306 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-12 04:39:51,307 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-12 04:39:51,307 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-12 04:39:54,210 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:54,690 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:55,183 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:55,932 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:39:55,932 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-12 04:39:55,932 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-12 04:39:55,932 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-12 04:40:11,732 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 279 rows
+2026-05-12 04:40:12,450 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 273 rows
+2026-05-12 04:40:17,684 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 177 rows
+2026-05-12 04:40:41,533 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-12 04:40:41,599 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-12 04:40:41,682 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-12 04:40:41,702 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-12 04:40:41,702 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-12 04:40:41,864 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (1d 1927-06-06 -> 2026-05-12)
+2026-05-12 04:40:41,864 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-12 04:40:42,549 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:40:43,047 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:40:43,499 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:40:44,048 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:40:44,048 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-12 04:40:44,048 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-12 04:40:44,048 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-12 04:40:48,005 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 589 rows
+2026-05-12 04:41:45,392 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 67 rows
+2026-05-12 04:42:13,657 - __main__ - INFO - Scanner started
+2026-05-12 04:42:15,102 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-12 04:42:15,167 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-12 04:42:15,246 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-12 04:42:15,278 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-12 04:42:15,278 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-12 04:42:15,358 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (1d 1927-06-06 -> 2026-05-12)
+2026-05-12 04:42:15,358 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-12 04:42:16,437 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYHEALTHCARE.NS"}}}
+2026-05-12 04:42:16,986 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:17,672 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:18,462 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:18,959 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYHEALTHCARE.NS"}}}
+2026-05-12 04:42:19,507 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:19,507 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-12 04:42:19,511 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-12 04:42:19,511 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-12 04:42:20,549 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:21,230 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:21,822 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:22,256 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:22,257 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-12 04:42:22,258 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-12 04:42:22,259 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-12 04:42:25,502 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:27,278 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:27,769 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:28,237 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:42:28,238 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-12 04:42:28,241 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-12 04:42:28,241 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-12 04:42:42,678 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 279 rows
+2026-05-12 04:42:43,449 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 273 rows
+2026-05-12 04:42:48,468 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 177 rows
+2026-05-12 04:43:10,522 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-12 04:43:10,608 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-12 04:43:10,685 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-12 04:43:10,701 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-12 04:43:10,701 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-12 04:43:10,777 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (1d 1927-06-06 -> 2026-05-12)
+2026-05-12 04:43:10,777 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-12 04:43:11,163 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:43:11,828 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:43:12,262 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:43:12,931 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-12 04:43:12,931 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-12 04:43:12,932 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-12 04:43:12,933 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-12 04:43:16,294 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 589 rows
+2026-05-12 04:44:13,655 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 67 rows
+2026-05-14 21:59:53,168 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 21:59:53,878 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 21:59:53,881 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:00:54,873 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:00:54,948 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:00:55,018 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:00:55,042 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:00:55,043 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:00:55,114 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:00:55,114 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:00:55,538 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:00:56,283 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:00:56,674 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:00:57,163 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:00:57,164 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:00:57,165 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:00:57,165 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:00:57,552 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:00:58,198 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:00:58,599 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:00:58,979 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:00:58,980 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:00:58,981 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:00:58,982 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:01:01,719 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:01:02,123 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:01:02,522 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:01:03,104 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:01:03,104 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:01:03,106 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:01:03,106 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:01:20,256 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:01:21,028 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:01:26,269 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:01:48,782 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:01:48,855 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:01:48,990 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:01:49,017 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:01:49,017 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:01:49,095 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:01:49,095 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:01:49,488 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:01:50,090 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:01:50,782 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:01:51,368 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:01:51,368 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:01:51,369 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:01:51,370 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:01:54,680 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:02:55,754 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:03:25,761 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:03:26,531 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:03:26,541 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:04:27,435 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:04:27,512 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:04:27,665 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:04:27,689 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:04:27,689 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:04:27,761 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:04:27,761 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:04:28,400 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:28,912 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:29,299 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:29,967 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:29,967 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:04:29,968 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:04:29,969 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:04:30,655 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:31,329 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:31,833 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:32,416 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:32,417 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:04:32,418 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:04:32,418 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:04:35,241 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:35,816 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:36,397 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:36,775 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:04:36,775 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:04:36,776 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:04:36,776 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:04:53,105 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:04:53,806 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:04:59,029 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:05:21,433 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:05:21,506 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:05:21,580 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:05:21,604 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:05:21,604 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:05:21,676 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:05:21,676 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:05:22,056 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:05:22,525 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:05:23,170 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:05:23,550 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:05:23,550 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:05:23,551 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:05:23,552 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:05:26,993 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:06:23,218 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:06:47,830 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:06:48,455 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:06:48,463 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:07:49,208 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:07:49,279 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:07:49,421 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:07:49,468 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:07:49,468 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:07:49,545 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:07:49,546 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:07:50,286 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:50,711 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:51,472 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:51,853 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:51,854 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:07:51,855 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:07:51,855 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:07:52,246 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:52,820 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:53,415 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:53,868 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:53,869 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:07:53,870 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:07:53,870 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:07:56,240 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:56,632 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:57,310 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:57,719 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:07:57,719 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:07:57,720 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:07:57,720 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:08:14,634 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:08:15,342 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:08:20,591 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:08:44,531 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:08:44,605 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:08:44,671 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:08:44,696 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:08:44,696 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:08:44,761 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:08:44,762 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:08:45,316 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:08:45,765 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:08:46,145 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:08:46,526 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:08:46,526 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:08:46,527 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:08:46,527 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:08:50,466 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:09:56,399 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:10:27,234 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:10:28,032 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:10:28,044 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:11:28,935 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:11:29,006 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:11:29,073 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:11:29,101 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:11:29,101 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:11:29,172 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:11:29,173 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:11:29,587 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:29,963 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:30,352 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:30,729 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:30,729 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:11:30,730 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:11:30,730 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:11:31,722 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:32,101 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:32,489 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:32,875 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:32,875 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:11:32,876 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:11:32,877 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:11:35,488 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:36,063 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:36,835 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:37,212 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:11:37,213 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:11:37,213 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:11:37,213 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:11:53,691 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:11:54,378 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:11:59,568 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:12:23,864 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:12:23,935 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:12:24,074 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:12:24,100 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:12:24,100 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:12:24,167 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:12:24,168 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:12:24,560 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:12:25,114 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:12:25,501 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:12:25,878 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:12:25,879 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:12:25,880 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:12:25,880 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:12:29,709 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:13:31,973 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:14:00,033 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:14:00,832 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:14:00,842 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:15:01,773 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:15:01,844 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:15:01,921 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:15:01,945 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:15:01,945 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:15:02,020 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:15:02,020 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:15:02,921 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:03,369 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:03,958 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:04,413 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:04,414 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:15:04,415 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:15:04,415 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:15:04,862 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:05,528 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:05,973 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:06,645 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:06,646 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:15:06,646 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:15:06,647 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:15:09,586 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:10,187 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:10,582 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:10,971 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:10,971 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:15:10,972 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:15:10,972 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:15:27,360 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:15:28,112 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:15:33,056 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:15:55,999 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:15:56,073 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:15:56,141 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:15:56,167 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:15:56,167 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:15:56,242 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:15:56,242 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:15:56,628 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:57,084 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:57,799 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:58,412 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:15:58,413 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:15:58,413 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:15:58,414 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:16:02,065 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:17:05,825 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:17:33,695 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:17:34,419 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:17:34,429 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:18:35,228 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:18:35,335 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:18:35,413 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:18:35,441 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:18:35,442 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:18:35,512 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:18:35,513 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:18:35,993 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:36,471 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:36,926 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:37,640 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:37,640 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:18:37,641 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:18:37,641 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:18:38,086 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:38,485 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:38,960 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:39,414 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:39,414 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:18:39,415 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:18:39,416 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:18:41,759 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:42,254 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:42,849 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:43,541 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:18:43,541 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:18:43,542 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:18:43,543 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:18:59,667 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:19:00,425 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:19:05,705 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:19:28,511 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:19:28,579 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:19:28,653 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:19:28,679 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:19:28,680 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:19:28,748 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:19:28,748 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:19:29,330 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:19:29,703 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:19:30,127 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:19:30,557 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:19:30,557 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:19:30,558 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:19:30,558 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:19:34,131 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:20:33,620 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:21:00,395 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:21:01,057 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:21:01,067 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:22:01,828 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:22:01,919 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:22:01,988 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:22:02,016 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:22:02,016 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:22:02,087 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:22:02,087 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:22:02,525 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:03,105 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:03,497 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:03,880 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:03,881 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:22:03,882 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:22:03,883 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:22:04,468 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:05,058 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:05,448 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:06,022 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:06,022 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:22:06,024 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:22:06,024 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:22:08,724 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:09,213 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:09,832 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:10,461 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:10,462 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:22:10,464 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:22:10,464 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:22:26,105 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:22:26,872 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:22:32,220 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:22:54,484 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:22:54,553 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:22:54,630 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:22:54,654 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:22:54,654 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:22:54,726 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:22:54,727 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:22:55,192 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:55,774 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:56,160 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:56,553 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:22:56,554 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:22:56,555 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:22:56,555 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:23:00,112 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:24:07,300 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:24:35,640 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:24:36,394 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:24:36,404 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:25:37,228 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:25:37,304 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:25:37,380 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:25:37,408 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:25:37,408 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:25:37,545 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:25:37,545 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:25:38,062 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:38,517 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:38,907 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:39,384 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:39,385 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:25:39,385 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:25:39,386 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:25:39,770 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:40,157 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:40,819 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:41,247 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:41,247 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:25:41,248 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:25:41,248 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:25:43,699 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:44,175 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:44,664 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:45,043 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:25:45,043 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:25:45,044 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:25:45,044 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:26:01,283 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:26:02,173 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:26:07,664 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:26:32,021 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:26:32,092 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:26:32,165 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:26:32,192 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:26:32,193 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:26:32,258 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:26:32,258 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:26:32,638 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:26:33,080 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:26:33,521 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:26:34,009 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:26:34,009 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:26:34,010 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:26:34,011 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:26:37,765 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:27:33,643 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:27:58,967 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:27:59,652 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:27:59,660 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:29:00,744 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:29:00,826 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:29:00,915 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:29:00,942 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:29:00,943 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:29:01,012 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:29:01,012 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:29:01,875 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:02,402 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:02,989 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:03,671 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:03,671 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:29:03,672 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:29:03,673 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:29:04,257 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:04,646 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:05,505 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:06,031 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:06,031 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:29:06,032 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:29:06,032 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:29:08,756 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:09,717 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:10,120 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:10,568 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:10,568 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:29:10,569 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:29:10,569 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:29:26,386 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:29:27,119 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:29:32,214 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:29:55,365 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:29:55,504 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:29:55,572 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:29:55,599 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:29:55,599 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:29:55,669 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:29:55,670 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:29:56,058 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:56,449 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:56,884 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:57,535 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:29:57,536 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:29:57,536 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:29:57,537 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:30:01,441 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:31:05,025 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:31:34,691 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:31:35,461 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:31:35,470 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:32:36,310 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:32:36,378 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:32:36,446 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:32:36,470 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:32:36,471 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:32:36,543 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:32:36,543 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:32:37,026 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:37,474 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:37,915 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:38,934 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:38,934 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:32:38,935 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:32:38,936 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:32:39,324 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:39,902 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:40,272 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:40,649 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:40,649 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:32:40,650 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:32:40,650 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:32:43,366 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:43,874 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:44,324 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:44,713 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:32:44,713 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:32:44,714 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:32:44,714 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:33:00,757 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:33:01,426 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:33:06,641 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:33:29,858 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:33:29,936 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:33:30,005 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:33:30,030 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:33:30,030 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:33:30,095 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:33:30,096 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:33:30,486 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:33:30,864 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:33:31,312 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:33:31,697 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:33:31,698 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:33:31,698 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:33:31,699 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:33:35,265 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:34:32,197 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:34:57,743 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:34:58,383 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:34:58,412 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:35:59,129 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:35:59,213 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:35:59,290 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:35:59,327 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:35:59,328 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:35:59,398 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:35:59,399 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:36:00,038 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:00,439 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:00,829 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:01,378 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:01,378 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:36:01,379 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:36:01,379 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:36:01,774 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:02,390 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:02,845 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:03,382 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:03,383 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:36:03,383 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:36:03,384 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:36:05,820 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:06,215 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:06,802 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:07,193 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:07,194 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:36:07,196 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:36:07,196 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:36:21,986 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:36:22,776 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:36:27,952 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:36:49,581 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:36:49,658 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:36:49,731 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:36:49,760 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:36:49,762 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:36:50,140 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:36:50,141 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:36:50,536 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:51,226 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:51,926 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:52,308 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:36:52,310 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:36:52,312 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:36:52,312 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:36:55,572 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:37:50,726 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:38:16,250 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:38:16,898 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:38:16,927 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-14 22:39:17,631 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:39:17,702 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:39:17,779 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:39:17,803 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:39:17,804 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:39:17,874 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:39:17,874 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:39:18,404 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:18,809 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:19,211 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:19,722 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:19,723 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-14 22:39:19,725 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-14 22:39:19,725 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-14 22:39:20,418 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:20,901 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:21,300 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:21,971 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:21,972 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:39:21,973 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:39:21,973 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:39:24,381 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:24,785 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:25,240 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:25,739 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:39:25,740 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-14 22:39:25,741 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-14 22:39:25,741 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-14 22:39:40,134 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-14 22:39:40,885 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-14 22:39:45,525 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-14 22:40:06,566 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:40:06,636 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:40:06,706 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-14 22:40:06,732 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-14 22:40:06,733 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-14 22:40:06,810 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-14 22:40:06,812 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-14 22:40:07,260 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:40:07,782 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:40:08,354 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:40:08,842 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-14 22:40:08,843 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-14 22:40:08,845 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-14 22:40:08,845 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-14 22:40:11,977 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-14 22:41:04,605 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-14 22:41:30,227 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-14 22:41:30,836 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-14 22:41:30,866 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:32:33,157 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:32:33,235 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:32:33,305 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:32:33,331 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:32:33,331 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:32:33,402 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:32:33,403 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:32:33,865 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:34,243 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:35,017 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:35,404 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:35,405 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:32:35,406 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:32:35,406 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:32:35,851 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:36,229 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:36,812 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:37,191 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:37,191 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:32:37,192 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:32:37,192 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:32:39,331 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:39,767 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:40,422 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:40,808 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:32:40,809 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:32:40,810 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:32:40,810 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:32:54,707 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:32:55,367 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:33:00,439 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:33:20,528 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:33:20,597 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:33:20,732 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:33:20,756 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:33:20,756 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:33:20,824 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:33:20,825 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:33:21,393 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:33:21,766 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:33:22,145 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:33:22,524 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:33:22,524 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:33:22,525 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:33:22,525 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:33:25,367 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:34:17,760 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:34:41,496 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:34:42,101 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:34:42,130 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:35:43,033 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:35:43,103 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:35:43,178 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:35:43,208 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:35:43,209 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:35:43,286 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:35:43,287 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:35:43,742 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:44,177 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:44,574 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:45,170 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:45,171 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:35:45,171 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:35:45,172 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:35:45,898 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:46,334 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:46,930 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:47,531 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:47,531 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:35:47,532 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:35:47,532 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:35:49,736 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:50,325 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:50,950 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:51,341 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:35:51,342 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:35:51,344 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:35:51,344 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:36:05,532 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:36:06,242 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:36:10,767 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:36:30,454 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:36:30,527 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:36:30,667 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:36:30,696 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:36:30,696 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:36:30,765 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:36:30,766 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:36:31,161 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:36:31,605 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:36:32,090 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:36:32,565 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:36:32,567 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:36:32,568 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:36:32,568 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:36:35,524 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:37:25,921 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:37:48,694 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:37:49,335 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:37:49,361 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:38:50,081 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:38:50,149 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:38:50,233 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:38:50,265 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:38:50,265 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:38:50,344 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:38:50,346 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:38:50,783 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:51,168 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:51,598 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:51,986 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:51,988 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:38:51,988 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:38:51,990 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:38:52,375 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:52,851 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:53,249 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:53,840 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:53,840 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:38:53,842 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:38:53,842 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:38:56,015 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:56,407 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:56,948 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:57,532 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:38:57,532 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:38:57,532 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:38:57,532 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:39:11,580 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:39:12,363 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:39:16,896 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:39:36,745 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:39:36,812 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:39:36,962 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:39:36,994 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:39:36,994 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:39:37,062 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:39:37,062 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:39:37,507 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:39:37,895 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:39:38,383 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:39:38,762 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:39:38,762 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:39:38,762 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:39:38,762 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:39:41,811 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:40:30,940 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:40:53,593 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:40:54,172 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:40:54,204 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:41:54,982 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:41:55,046 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:41:55,126 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:41:55,168 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:41:55,168 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:41:55,236 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:41:55,237 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:41:55,719 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:41:56,657 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:41:57,033 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:41:57,631 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:41:57,633 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:41:57,633 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:41:57,633 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:41:58,074 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:41:58,562 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:41:58,945 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:41:59,417 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:41:59,417 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:41:59,418 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:41:59,418 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:42:01,674 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:42:02,423 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:42:03,000 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:42:03,644 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:42:03,644 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:42:03,645 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:42:03,645 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:42:18,214 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:42:18,941 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:42:23,526 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:42:43,700 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:42:43,847 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:42:43,912 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:42:43,944 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:42:43,944 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:42:44,012 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:42:44,012 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:42:44,465 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:42:45,054 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:42:45,518 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:42:46,116 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:42:46,116 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:42:46,116 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:42:46,116 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:42:49,221 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:43:37,872 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:44:01,010 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:44:01,727 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:44:01,727 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:45:02,469 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:45:02,619 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:45:02,687 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:45:02,719 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:45:02,719 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:45:02,802 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:45:02,803 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:45:03,553 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:04,153 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:04,604 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:05,193 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:05,195 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:45:05,195 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:45:05,197 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:45:05,686 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:06,170 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:06,752 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:07,236 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:07,236 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:45:07,236 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:45:07,236 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:45:09,552 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:09,935 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:10,529 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:10,985 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:10,986 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:45:10,986 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:45:10,986 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:45:24,950 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:45:25,650 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:45:30,517 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:45:50,083 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:45:50,150 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:45:50,232 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:45:50,265 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:45:50,265 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:45:50,343 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:45:50,344 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:45:50,731 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:51,364 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:52,015 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:52,593 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:45:52,593 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:45:52,594 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:45:52,594 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:45:55,538 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:46:46,491 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:47:09,674 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:47:10,370 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:47:10,379 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:48:11,120 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:48:11,188 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:48:11,253 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:48:11,287 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:48:11,287 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:48:11,370 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:48:11,370 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:48:11,838 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:12,412 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:12,787 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:13,220 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:13,220 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:48:13,220 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:48:13,220 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:48:13,670 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:14,103 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:14,686 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:15,121 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:15,121 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:48:15,121 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:48:15,136 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:48:17,540 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:18,508 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:18,903 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:19,405 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:19,405 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:48:19,405 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:48:19,419 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:48:33,035 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:48:33,802 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:48:38,344 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:48:58,035 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:48:58,134 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:48:58,201 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:48:58,235 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:48:58,235 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:48:58,301 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:48:58,301 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:48:58,784 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:59,537 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:48:59,934 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:49:00,634 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:49:00,648 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:49:00,649 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:49:00,649 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:49:03,933 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:49:54,795 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:50:17,649 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:50:18,256 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:50:18,265 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:51:19,003 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:51:19,072 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:51:19,143 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:51:19,176 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:51:19,178 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:51:19,251 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:51:19,252 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:51:19,945 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:20,399 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:20,862 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:21,449 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:21,451 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:51:21,453 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:51:21,453 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:51:21,943 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:22,328 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:22,832 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:23,416 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:23,418 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:51:23,419 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:51:23,420 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:51:25,595 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:25,975 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:26,727 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:27,219 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:51:27,220 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:51:27,221 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:51:27,221 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:51:40,742 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:51:41,472 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:51:45,959 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:52:05,627 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:52:05,696 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:52:05,764 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:52:05,795 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:52:05,797 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:52:05,939 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:52:05,941 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:52:06,345 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:52:06,795 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:52:07,204 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:52:07,844 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:52:07,845 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:52:07,846 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:52:07,846 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:52:10,794 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:52:59,914 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:53:22,370 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:53:22,999 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:53:23,027 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:54:23,738 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:54:23,818 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:54:23,890 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:54:23,922 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:54:23,923 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:54:23,999 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:54:24,000 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:54:24,451 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:25,120 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:25,516 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:26,101 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:26,101 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:54:26,101 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:54:26,101 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:54:26,497 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:26,915 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:27,368 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:27,749 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:27,749 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:54:27,749 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:54:27,749 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:54:29,958 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:30,396 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:30,789 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:31,193 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:54:31,193 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:54:31,193 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:54:31,193 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:54:44,372 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:54:45,114 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:54:49,628 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:55:08,740 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:55:08,802 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:55:08,883 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:55:08,916 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:55:08,916 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:55:08,984 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:55:08,984 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:55:09,375 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:55:09,940 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:55:10,378 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:55:10,833 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:55:10,833 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:55:10,833 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:55:10,833 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:55:14,019 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:56:01,623 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:56:24,124 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:56:24,761 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:56:24,761 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 00:57:25,694 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:57:25,762 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:57:25,840 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:57:25,872 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:57:25,872 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:57:25,937 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:57:25,937 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:57:26,409 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:26,784 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:27,172 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:27,621 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:27,623 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 00:57:27,623 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 00:57:27,623 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 00:57:28,007 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:28,606 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:28,997 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:29,390 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:29,390 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:57:29,390 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:57:29,390 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:57:31,708 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:32,095 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:32,481 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:32,888 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:57:32,888 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 00:57:32,888 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 00:57:32,888 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 00:57:45,956 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 00:57:46,699 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 00:57:51,016 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 00:58:10,318 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:58:10,399 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:58:10,467 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 00:58:10,486 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 00:58:10,486 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 00:58:10,562 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 00:58:10,562 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 00:58:10,952 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:58:11,407 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:58:11,796 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:58:12,169 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 00:58:12,169 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 00:58:12,169 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 00:58:12,169 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 00:58:15,308 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 00:59:04,297 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 00:59:27,036 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 00:59:27,734 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 00:59:27,734 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 01:00:28,524 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:00:28,589 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:00:28,671 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:00:28,687 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:00:28,687 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:00:28,767 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:00:28,767 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:00:29,321 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:29,748 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:30,135 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:30,626 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:30,626 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 01:00:30,626 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 01:00:30,626 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 01:00:31,015 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:31,402 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:31,776 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:32,175 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:32,175 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:00:32,175 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:00:32,175 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:00:34,393 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:34,973 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:35,461 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:35,954 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:00:35,954 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 01:00:35,966 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 01:00:35,966 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 01:00:48,968 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 01:00:49,665 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 01:00:54,138 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 01:01:14,557 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:01:14,625 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:01:14,686 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:01:14,718 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:01:14,718 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:01:14,782 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:01:14,782 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:01:15,175 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:01:15,559 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:01:15,942 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:01:16,561 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:01:16,561 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:01:16,561 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:01:16,561 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:01:19,680 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 01:02:08,607 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 01:02:31,273 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 01:02:31,905 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 01:02:31,922 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 01:03:32,619 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:03:32,687 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:03:32,768 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:03:32,798 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:03:32,798 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:03:32,866 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:03:32,869 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:03:33,566 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:33,949 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:34,616 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:35,005 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:35,005 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 01:03:35,015 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 01:03:35,016 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 01:03:35,600 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:35,991 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:36,368 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:36,968 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:36,982 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:03:36,984 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:03:36,984 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:03:39,487 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:39,868 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:40,599 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:41,180 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:03:41,181 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 01:03:41,182 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 01:03:41,182 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 01:03:54,414 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 01:03:55,281 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 01:03:59,697 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 01:04:19,119 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:04:19,245 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:04:19,329 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:04:19,345 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:04:19,345 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:04:19,412 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:04:19,412 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:04:19,814 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:04:20,209 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:04:20,578 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:04:20,970 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:04:20,972 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:04:20,972 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:04:20,972 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:04:23,812 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 01:05:15,022 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 01:05:38,573 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 01:05:39,287 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 01:05:39,305 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 01:06:40,051 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:06:40,118 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:06:40,182 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:06:40,216 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:06:40,216 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:06:40,302 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:06:40,302 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:06:40,768 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:41,218 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:41,613 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:41,999 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:42,000 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 01:06:42,002 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 01:06:42,002 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 01:06:42,771 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:43,163 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:43,666 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:44,047 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:44,049 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:06:44,051 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:06:44,051 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:06:46,391 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:46,831 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:47,223 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:47,589 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:06:47,589 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 01:06:47,589 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 01:06:47,589 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 01:07:01,315 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 01:07:02,305 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 01:07:06,736 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 01:07:25,931 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:07:25,997 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:07:26,082 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:07:26,096 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:07:26,109 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:07:26,178 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:07:26,178 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:07:26,679 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:07:27,074 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:07:27,465 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:07:27,897 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:07:27,897 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:07:27,907 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:07:27,907 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:07:30,839 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 01:08:19,204 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 01:08:41,106 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 01:08:41,811 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 01:08:41,846 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 01:09:42,534 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:09:42,599 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:09:42,676 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:09:42,708 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:09:42,708 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:09:42,773 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:09:42,773 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:09:43,228 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:43,619 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:44,102 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:44,482 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:44,497 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 01:09:44,497 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 01:09:44,497 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 01:09:44,887 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:45,285 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:45,674 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:46,128 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:46,128 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:09:46,138 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:09:46,138 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:09:48,258 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:48,650 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:49,037 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:49,512 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:09:49,512 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 01:09:49,512 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 01:09:49,512 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 01:10:02,862 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 01:10:03,565 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 01:10:07,960 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 01:10:27,689 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:10:27,776 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:10:27,837 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:10:27,867 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:10:27,867 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:10:27,932 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:10:27,932 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:10:28,338 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:10:28,715 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:10:29,102 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:10:29,575 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:10:29,575 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:10:29,584 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:10:29,584 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:10:32,410 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 01:11:19,840 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 01:11:42,229 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 01:11:42,835 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 01:11:42,867 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 01:12:43,713 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:12:43,930 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:12:44,007 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:12:44,088 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:12:44,088 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:12:44,169 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:12:44,169 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:12:44,644 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:45,241 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:45,692 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:46,097 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:46,097 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 01:12:46,097 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 01:12:46,097 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 01:12:46,486 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:46,942 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:47,468 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:48,123 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:48,125 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:12:48,129 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:12:48,129 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:12:50,345 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:50,959 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:51,361 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:51,753 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:12:51,753 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 01:12:51,753 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 01:12:51,753 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 01:13:06,408 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 01:13:07,161 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 01:13:11,777 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 01:13:33,314 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:13:33,390 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:13:33,471 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:13:33,486 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:13:33,486 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:13:33,555 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:13:33,555 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:13:33,942 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:13:34,644 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:13:35,046 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:13:35,439 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:13:35,439 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:13:35,439 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:13:35,439 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:13:38,783 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 01:14:32,524 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 70 rows
+2026-05-15 01:14:57,187 - __main__ - WARNING - No results for Rubber Band (Oversold)
+2026-05-15 01:14:57,798 - __main__ - WARNING - No results for Techno-Funda (Earnings)
+2026-05-15 01:14:57,830 - __main__ - INFO - Results saved to data.json: 163 stocks
+2026-05-15 01:15:58,635 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:15:58,715 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:15:58,912 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:15:58,918 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:15:58,918 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:15:58,999 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:15:58,999 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:15:59,797 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:00,199 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:00,791 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:01,187 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:01,202 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-15 01:16:01,202 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-15 01:16:01,202 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-15 01:16:01,649 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:02,254 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:02,737 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:03,236 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:03,238 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:16:03,238 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:16:03,238 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:16:05,720 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:06,128 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:06,525 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:07,045 - yfinance - ERROR - $BSE.BO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:07,045 - __main__ - WARNING - Insufficient data for BSE: 0 rows
+2026-05-15 01:16:07,049 - yfinance - ERROR - $BSE.BO: possibly delisted; no timezone found
+2026-05-15 01:16:07,049 - backtest_core - WARNING - Insufficient data for BSE.BO: 0 rows
+2026-05-15 01:16:20,269 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 282 rows
+2026-05-15 01:16:20,997 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 276 rows
+2026-05-15 01:16:26,021 - backtest_core - WARNING - Insufficient data for GVPIL.NS: 180 rows
+2026-05-15 01:16:45,821 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:16:45,887 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:16:45,968 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-15 01:16:45,990 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 01:16:45,990 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-15 01:16:46,066 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-15 01:16:46,066 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-15 01:16:46,503 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:46,911 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:47,318 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:47,711 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-15 01:16:47,711 - __main__ - WARNING - Insufficient data for NIFTYMETAL: 0 rows
+2026-05-15 01:16:47,711 - yfinance - ERROR - $NIFTYMETAL.NS: possibly delisted; no timezone found
+2026-05-15 01:16:47,711 - backtest_core - WARNING - Insufficient data for NIFTYMETAL.NS: 0 rows
+2026-05-15 01:16:50,659 - backtest_core - WARNING - Insufficient data for HEALTHIETF.NS: 592 rows
+2026-05-15 04:17:06,861 - yfinance - ERROR - $SUNPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-15 06:53:31,803 - yfinance - ERROR - $SUNPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-22 04:36:18,564 - __main__ - INFO - Scanner started
+2026-05-22 04:36:20,563 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYMIDSMLHLTH.NS"}}}
+2026-05-22 04:36:21,113 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:36:21,500 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:36:21,905 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:36:22,304 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYMIDSMLHLTH.NS"}}}
+2026-05-22 04:36:22,787 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:36:22,787 - __main__ - WARNING - Insufficient data for NIFTYMIDSMLHLTH: 0 rows
+2026-05-22 04:36:22,787 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no timezone found
+2026-05-22 04:36:22,787 - backtest_core - WARNING - Insufficient data for NIFTYMIDSMLHLTH.NS: 0 rows
+2026-05-22 04:36:25,956 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-22 04:36:26,037 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-22 04:36:26,123 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-22 04:36:26,138 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-22 04:36:26,139 - __main__ - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-22 04:36:26,219 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-22 04:36:26,221 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-22 04:36:28,201 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:36:28,607 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:36:29,120 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:36:29,608 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:36:29,608 - __main__ - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-22 04:36:29,608 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-22 04:36:29,608 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-22 04:36:37,259 - backtest_core - WARNING - Insufficient data for ACUTAAS.NS: 240 rows
+2026-05-22 04:36:47,614 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 287 rows
+2026-05-22 04:36:48,302 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 281 rows
+2026-05-22 04:48:29,699 - __main__ - INFO - Scanner started
+2026-05-22 04:48:29,790 - __main__ - INFO - Next scheduled scan at 2026-05-22T09:30:00+05:30 (16890 seconds from now)
+2026-05-22 04:59:57,403 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYMIDSMLHLTH.NS"}}}
+2026-05-22 04:59:57,985 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:59:58,576 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 04:59:59,525 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:00:00,316 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYMIDSMLHLTH.NS"}}}
+2026-05-22 05:00:00,794 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:00:00,795 - fetch - WARNING - Insufficient data for NIFTYMIDSMLHLTH: 0 rows
+2026-05-22 05:00:01,247 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=1200d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:03,881 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYMIDSMLHLTH.NS"}}}
+2026-05-22 05:03:04,422 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:04,821 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:05,227 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:05,630 - yfinance - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NIFTYMIDSMLHLTH.NS"}}}
+2026-05-22 05:03:06,100 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:06,100 - fetch - WARNING - Insufficient data for NIFTYMIDSMLHLTH: 0 rows
+2026-05-22 05:03:06,500 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no price data found  (period=1200d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:06,502 - yfinance - ERROR - $NIFTYMIDSMLHLTH.NS: possibly delisted; no timezone found
+2026-05-22 05:03:06,502 - backtest_core - WARNING - Insufficient data for NIFTYMIDSMLHLTH.NS: 0 rows
+2026-05-22 05:03:07,305 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-22 05:03:07,511 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-22 05:03:07,590 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=5d)
+2026-05-22 05:03:07,605 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1y)
+2026-05-22 05:03:07,606 - fetch - WARNING - Insufficient data for CNXPHARMA: 0 rows
+2026-05-22 05:03:07,683 - yfinance - ERROR - $CNXPHARMA.NS: possibly delisted; no price data found  (period=1200d)
+2026-05-22 05:03:07,768 - yfinance - ERROR - CNXPHARMA.NS: Period 'max' is invalid, must be one of: 1d, 5d
+2026-05-22 05:03:07,769 - backtest_core - WARNING - Insufficient data for CNXPHARMA.NS: 0 rows
+2026-05-22 05:03:09,608 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:10,011 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:10,873 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:11,278 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:11,278 - fetch - WARNING - Insufficient data for NIFTYHEALTHCARE: 0 rows
+2026-05-22 05:03:11,687 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no price data found  (period=1200d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-22 05:03:11,688 - yfinance - ERROR - $NIFTYHEALTHCARE.NS: possibly delisted; no timezone found
+2026-05-22 05:03:11,689 - backtest_core - WARNING - Insufficient data for NIFTYHEALTHCARE.NS: 0 rows
+2026-05-22 05:03:22,080 - backtest_core - WARNING - Insufficient data for ACUTAAS.NS: 240 rows
+2026-05-22 05:03:34,837 - backtest_core - WARNING - Insufficient data for CASHIETF.NS: 287 rows
+2026-05-22 05:03:35,878 - backtest_core - WARNING - Insufficient data for AONELIQUID.NS: 281 rows
+2026-05-22 05:03:48,858 - backtest_core - WARNING - Insufficient data for UFBL.NS: 154 rows
+2026-05-22 05:04:19,650 - backtest_core - WARNING - Insufficient data for INDOBORAX.NS: 1024 rows
+2026-05-22 05:05:18,398 - backtest_core - WARNING - Insufficient data for SIGMAADV.NS: 75 rows
+2026-05-22 05:05:54,645 - fetch - WARNING - No results for Rubber Band (Oversold)
+2026-05-22 05:05:55,275 - fetch - WARNING - No results for Techno-Funda (Earnings)
+2026-05-22 05:05:55,292 - fetch - INFO - Results saved to data.json: 177 stocks
+2026-05-22 05:05:55,314 - fetch - INFO - Date-specific results saved to data_2026-05-22.json

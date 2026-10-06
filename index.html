@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pro Trading Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* --- GLOBAL & BACKGROUND --- */
+        body { 
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; 
+            background: linear-gradient(135deg, #0f172a 0%, #020617 100%);
+            background-attachment: fixed;
+            color: #e2e8f0; 
+            margin: 0; 
+            padding: 30px; 
+            min-height: 100vh;
+        }
+
+        /* --- HEADER & CONTROLS --- */
+        .header { 
+            display: flex; justify-content: space-between; align-items: center; 
+            margin-bottom: 25px; padding-bottom: 15px;
+            border-bottom: 1px solid rgba(56, 189, 248, 0.2);
+        }
+        
+        h1 { margin: 0; color: #38bdf8; font-size: 28px; font-weight: 700; letter-spacing: -0.5px; text-shadow: 0 0 20px rgba(56, 189, 248, 0.4); }
+
+        .search-container { display: flex; gap: 15px; }
+        select, input { 
+            padding: 12px 18px; border-radius: 10px; border: 1px solid #334155; 
+            background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px);
+            color: #f8fafc; font-size: 14px; font-weight: 500; transition: all 0.3s ease;
+        }
+        select { cursor: pointer; min-width: 220px; }
+        input { width: 300px; }
+        select:hover, input:hover { border-color: #475569; }
+        select:focus, input:focus { outline: none; border-color: #38bdf8; box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2); }
+
+        /* --- TABLE STYLING --- */
+        table { 
+            width: 100%; border-collapse: separate; border-spacing: 0;
+            background: rgba(30, 41, 59, 0.6); border-radius: 12px; overflow: hidden; 
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5); border: 1px solid #334155;
+        }
+        
+        th, td { padding: 16px 20px; text-align: left; border-bottom: 1px solid #334155; }
+        
+        /* Interactive Headers */
+        th { 
+            background: rgba(15, 23, 42, 0.9); color: #94a3b8; font-weight: 600; 
+            text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;
+            cursor: pointer; user-select: none; transition: color 0.2s;
+        }
+        th:hover { color: #f8fafc; background: rgba(30, 41, 59, 0.9); }
+        .sort-icon { display: inline-block; width: 14px; margin-left: 4px; font-size: 10px; color: #38bdf8; }
+
+        tr { transition: background 0.2s ease; }
+        tr:last-child td { border-bottom: none; }
+        tr:hover { background: rgba(51, 65, 85, 0.8); }
+
+        /* --- TYPOGRAPHY & DATA CELLS --- */
+        strong { color: #f8fafc; font-size: 15px; }
+        .strategy-badge { 
+            font-size: 11px; color: #94a3b8; display: inline-block; 
+            margin-top: 5px; margin-right: 5px; background: rgba(0,0,0,0.2);
+            padding: 2px 6px; border-radius: 4px;
+        }
+
+        /* --- NEON SIGNAL BADGES --- */
+        .badge { padding: 6px 12px; border-radius: 6px; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; display: inline-block; text-align: center; }
+        .signal-breakout { background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(52, 211, 153, 0.3); }
+        .signal-vcp { background: rgba(56, 189, 248, 0.15); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3); }
+        .signal-dumping { background: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(248, 113, 113, 0.3); }
+        .signal-trend { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(251, 191, 36, 0.3); }
+
+        a { color: #38bdf8; text-decoration: none; font-weight: 600; display: flex; align-items: center; gap: 5px; transition: color 0.2s ease; }
+        a:hover { color: #7dd3fc; }
+        .rvol-hot { color: #fbbf24; font-weight: 700; text-shadow: 0 0 8px rgba(251, 191, 36, 0.4); }
+        .price-up { color: #34d399; font-weight: 600; }
+        .price-down { color: #f87171; font-weight: 600; }
+        
+        /* --- BACKTEST STYLING --- */
+        .backtest-positive { color: #34d399; font-weight: 700; text-shadow: 0 0 8px rgba(52, 211, 153, 0.4); }
+        .backtest-negative { color: #f87171; font-weight: 700; text-shadow: 0 0 8px rgba(248, 113, 113, 0.4); }
+        .backtest-neutral { color: #cbd5e1; font-weight: 600; }
+        .backtest-details { font-size: 11px; color: #94a3b8; margin-top: 3px; }
+        
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: #0f172a; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #475569; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>📈 Pro Institutional Scanner</h1>
+        <div class="search-container">
+            <select id="strategyFilter">
+                <option value="ALL">All Strategies</option>
+                <option value="Classic ATH (250-Day)">Classic ATH (250-Day)</option>
+                <option value="Pro Breakout (1000-Day)">Pro Breakout (1000-Day)</option>
+                <option value="Minervini Trend">Minervini Trend</option>
+                <option value="Rubber Band (Oversold)">Rubber Band (Oversold)</option>
+                <option value="Techno-Funda (Earnings)">Techno-Funda (Earnings)</option>
+            </select>
+            <input type="text" id="search" placeholder="🔍 Search symbol or name...">
+        </div>
+    </div>
+    <div id="status" style="margin-bottom: 18px; color: #94a3b8; font-size: 14px;"></div>
+
+    <table>
+        <thead>
+            <tr>
+                <th onclick="setSort('name')">Stock Name <span id="sort-name" class="sort-icon"></span></th>
+                <th onclick="setSort('symbol')">Symbol <span id="sort-symbol" class="sort-icon"></span></th>
+                <th onclick="setSort('price')">Price <span id="sort-price" class="sort-icon"></span></th>
+                <th onclick="setSort('change')">% Chg <span id="sort-change" class="sort-icon"></span></th>
+                <th onclick="setSort('rvol')">RVOL <span id="sort-rvol" class="sort-icon"></span></th>
+                <th onclick="setSort('bo_days')">Sessions Ago <span id="sort-bo_days" class="sort-icon"></span></th>
+                <th onclick="setSort('score')">Score <span id="sort-score" class="sort-icon">▼</span></th>
+                <th onclick="setSort('signal')">Signal <span id="sort-signal" class="sort-icon"></span></th>
+                <th>Breakout Stats</th>
+                <th onclick="setSort('bt_growth_pct')">Backtest <span id="sort-bt_growth_pct" class="sort-icon"></span></th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+            <!-- Data populated by JS -->
+        </tbody>
+    </table>
+
+    <script>
+        let stocks = [];
+        
+        // Sorting State Memory
+        let currentSortColumn = 'score';
+        let isAscending = false;
+
+        async function loadData() {
+            try {
+                const response = await fetch('data.json?t=' + new Date().getTime());
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                stocks = await response.json();
+                document.getElementById('status').textContent = `Loaded ${stocks.length} items at ${new Date().toLocaleTimeString()}`;
+                render();
+            } catch (error) {
+                console.error("Error loading data:", error);
+                document.getElementById('status').textContent = `Unable to load data.json: ${error.message}. Refresh page after scan completes.`;
+                document.getElementById('tbody').innerHTML = '';
+            }
+        }
+
+        function setSort(column) {
+            // If clicking the same column, flip the direction. Otherwise, set new column to descending first.
+            if (currentSortColumn === column) {
+                isAscending = !isAscending;
+            } else {
+                currentSortColumn = column;
+                isAscending = (column === 'name' || column === 'symbol' || column === 'bo_days') ? true : false;
+            }
+            render();
+        }
+
+        function updateSortIcons() {
+            // Clear all icons
+            document.querySelectorAll('.sort-icon').forEach(icon => icon.innerHTML = '');
+            // Set the active icon
+            let activeIcon = document.getElementById(`sort-${currentSortColumn}`);
+            if (activeIcon) activeIcon.innerHTML = isAscending ? '▲' : '▼';
+        }
+
+        function render() {
+            updateSortIcons();
+            let tbody = document.getElementById("tbody");
+            tbody.innerHTML = "";
+
+            let search = document.getElementById("search").value.toLowerCase();
+            let selectedStrategy = document.getElementById("strategyFilter").value;
+
+            // 1. Filter Data
+            let filteredStocks = stocks
+                .filter(s => selectedStrategy === "ALL" || s.strategy === selectedStrategy)
+                .filter(s => s.name.toLowerCase().includes(search) || s.symbol.toLowerCase().includes(search));
+
+            if (!filteredStocks.length) {
+                document.getElementById('status').textContent = 'No rows match the filter. Check search or wait for data to arrive.';
+            }
+
+            // 2. Sort Data (no grouping - keep each strategy+symbol as separate row)
+            let finalData = filteredStocks.sort((a, b) => {
+                let valA = a[currentSortColumn];
+                let valB = b[currentSortColumn];
+
+                // Special handling for "Sessions Ago" so -1 (No Data) always goes to the bottom
+                if (currentSortColumn === 'bo_days') {
+                    let calcA = valA === -1 ? 9999 : valA;
+                    let calcB = valB === -1 ? 9999 : valB;
+                    return isAscending ? calcA - calcB : calcB - calcA;
+                }
+
+                // Text sorting vs Number sorting
+                if (typeof valA === 'string') {
+                    return isAscending ? valA.localeCompare(valB) : valB.localeCompare(valA);
+                } else {
+                    return isAscending ? valA - valB : valB - valA;
+                }
+            });
+
+            // 4. Group rows by scan date and render date separators
+            const groupedByDate = finalData.reduce((acc, item) => {
+                const date = item.scan_date || 'Unknown Date';
+                if (!acc[date]) acc[date] = [];
+                acc[date].push(item);
+                return acc;
+            }, {});
+
+            const sortedDates = Object.keys(groupedByDate).sort((a, b) => b.localeCompare(a));
+            sortedDates.forEach(date => {
+                let dateHeader = document.createElement('tr');
+                dateHeader.innerHTML = `
+                    <td colspan="11" style="padding: 12px 20px; background: rgba(56,189,248,0.1); color: #7dd3fc; font-weight: 700; border-bottom: 1px solid rgba(56,189,248,0.2);">
+                        ${date}
+                    </td>
+                `;
+                tbody.appendChild(dateHeader);
+
+                groupedByDate[date].forEach(s => {
+                    let tr = document.createElement("tr");
+
+                    let cssClass = "badge signal-trend";
+                    if (s.signal.includes("BREAKOUT")) cssClass = "badge signal-breakout";
+                    else if (s.signal.includes("VCP")) cssClass = "badge signal-vcp";
+                    else if (s.signal.includes("DUMPING")) cssClass = "badge signal-dumping";
+
+                let rvolHtml = s.rvol > 1.5 ? `<span class="rvol-hot">${s.rvol}x</span>` : `<span style="color: #cbd5e1;">${s.rvol}x</span>`;
+                
+                let changeClass = s.change >= 0 ? 'price-up' : 'price-down';
+                let boStyle = s.bo_days === 0 ? "color: #34d399; font-weight: 700;" : "color: #94a3b8;";
+
+                // Backtest Display
+                let backtestHtml = "";
+                if (s.backtest_available) {
+                    let btGrowth = Number(s.bt_growth_pct || 0);
+                    let btClass = btGrowth >= 0 ? 'backtest-positive' : 'backtest-negative';
+                    backtestHtml = `
+                        <div class="${btClass}">₹${Number(s.bt_net_profit || 0).toFixed(0)} (${btGrowth > 0 ? '+' : ''}${btGrowth}%)</div>
+                        <div class="backtest-details">Trades: ${s.bt_total_trades || 0} | Win: ${s.bt_win_rate || 0}%</div>
+                        <div class="backtest-details">Score: ${s.backtest_score || 0}</div>
+                    `;
+                } else {
+                    backtestHtml = `<div class="backtest-neutral">Insufficient Data</div>`;
+                }
+
+                let breakoutStatsHtml = `
+                    <div>Retrace avg: ${s.breakout_retrace_avg_days || 0}d</div>
+                    <div>Resume avg: ${s.breakout_expected_resume_days || 0}d</div>
+                    <div class="backtest-details">Last retrace: ${s.breakout_latest_retrace_days || 0}d</div>
+                `;
+
+                tr.innerHTML = `
+                <td>
+                    <strong>${s.name}</strong><br>
+                    <span class="strategy-badge">${s.strategy}</span>
+                </td>
+                <td style="color: #cbd5e1; font-weight: 500;">
+						${s.symbol}<br>
+						<span style="font-size: 11px; color: #94a3b8; font-weight: 400;">
+							${s.category}<br>
+							ATR: ${s.atr}%
+						</span>
+					</td>
+                <td style="font-weight: 500;">₹${s.price.toFixed(2)}</td>
+                <td class="${changeClass}">${s.change > 0 ? '+' : ''}${s.change}%</td>
+                <td>${rvolHtml}</td>
+                <td style="${boStyle}">⏱️ ${s.bo_text || "N/A"}</td>
+                <td style="color: #e2e8f0; font-weight: 600;">${s.score.toFixed(1)}</td>
+                <td><span class="${cssClass}">${s.signal}</span></td>
+                <td>${breakoutStatsHtml}</td>
+                <td>${backtestHtml}</td>
+                <td>
+                    <a href="https://in.tradingview.com/chart/?symbol=NSE:${s.symbol}" target="_blank">
+                        📊 Chart
+                    </a>
+                </td>
+                `;
+                tbody.appendChild(tr);
+                });
+            });
+        }
+
+        document.getElementById("strategyFilter").addEventListener("change", render);
+        document.getElementById("search").addEventListener("input", render);
+
+        // Load immediately, then refresh every 60 seconds
+        loadData();
+        setInterval(loadData, 60000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+2026-10-07 00:39:47,742 - INFO - Configuration loaded from config.json
+2026-10-07 00:39:50,110 - INFO - Restored latest two-day breakout data to C:\Users\visha\OneDrive\Desktop\ATH\data.json
+2026-10-07 00:39:50,110 - INFO - Scanner started
+2026-10-07 00:39:50,110 - INFO - Next scheduled scan at 2026-10-07T09:30:00+05:30 (31810 seconds from now)

@@ -1,0 +1,63 @@
+{
+  "backtest": {
+    "symbol": "PGEL.NS",
+    "period": "max",
+    "starting_capital": 100000.0,
+    "position_size": 20000.0,
+    "stop_loss_pct": 0.08,
+    "take_profit_pct": 0.24,
+    "brokerage_pct": 0.0005,
+    "slippage_pct": 0.001
+  },
+  "scanner": {
+    "request_timeout": 10,
+    "max_retries": 3,
+    "scan_interval_seconds": 300,
+    "daily_scan_time": "09:30",
+    "timezone": "Asia/Kolkata",    "market_open": "09:15",
+    "market_close": "15:30",    "clear_old_data_daily": true,
+    "intraday_scan_interval": 300,
+    "log_file": "scanner.log",
+    "data_output_file": "data.json",
+    "backup_data_file": "data_backup.json"
+  },
+  "strategies": {
+    "Classic ATH (250-Day)": {
+      "window": 250,
+      "min_data_days": 300
+    },
+    "Pro Breakout (1000-Day)": {
+      "window": 1000,
+      "volume_multiplier": 2.0,
+      "min_data_days": 1050
+    },
+    "Minervini Trend": {
+      "sma_50": 50,
+      "sma_150": 150,
+      "sma_200": 200,
+      "lookback_250": 250,
+      "min_volume": 100000,
+      "min_data_days": 250
+    },
+    "Rubber Band (Oversold)": {
+      "sma_200": 200,
+      "rsi_period": 14,
+      "rsi_threshold": 30,
+      "bb_period": 20,
+      "bb_std_dev": 2.0,
+      "min_volume": 100000,
+      "min_data_days": 250
+    },
+    "Techno-Funda (Earnings)": {
+      "volume_multiplier": 3.0,
+      "price_threshold": 0.9,
+      "min_data_days": 50
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file_handler": "scanner.log",
+    "console_handler": true
+  }
+}
