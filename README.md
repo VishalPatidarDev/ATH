@@ -12,7 +12,7 @@ A professional-grade stock trading backtester for the Indian stock market with m
   - Rubber Band (Oversold)
   - Techno-Funda (Volume Spike)
 
-- **C++ Acceleration**: pybind11-based extension for 5-10x faster backtesting
+- **C++ Acceleration**: pybind11-based extension for 5-10x faster backtesting //will  do in upcoming version in BTE
 - **Multi-stock Scanner**: Real-time market scanning with Chartink integration
 - **Transaction Cost Modeling**: Brokerage and slippage simulation
 - **Risk Metrics**: Sharpe Ratio, Calmar Ratio, Sortino Ratio, Max Drawdown
@@ -22,7 +22,7 @@ A professional-grade stock trading backtester for the Indian stock market with m
 ### 🐛 Issues Fixed (v2.0)
 
 #### Critical Fixes
-1. **Proper Error Handling**: Replaced all bare `except:` clauses with specific exception handling
+1. **Proper Error Handling**: Replaced all bare `except:` clauses with specific exception handling // have to look into it
 2. **Input Validation**: Added comprehensive validation for all API responses and data
 3. **Type Hints**: Complete type hints across all Python modules
 4. **Error Logging**: Integrated logging system for debugging and monitoring
